@@ -1,1 +1,1 @@
-Esto es una prueba para evaluar el comando Git PULL
+Esto es una prueba para evaluar el comando Git PULL (Universo Tecn)
